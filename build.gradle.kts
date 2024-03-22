@@ -18,7 +18,7 @@ subprojects {
     apply(plugin = "org.jetbrains.kotlin.plugin.jpa")
     apply(plugin = "eclipse")
 
-    group = "JelleHoffman"
+    group = "com.jelle.hoffman.motorcycle.clothing.tweakers"
     version = rootProject.version
 
     extensions.configure<JavaPluginExtension> {

@@ -1,4 +1,4 @@
-package org.jelleHoffman.motorcycleClothingTweakers
+package com.jelle.hoffman.motorcycle.clothing.tweakers
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
